@@ -82,7 +82,7 @@ class _CurrencyConverterMaterialPageState extends State<CurrencyConverterMateria
               child: ElevatedButton(
                 onPressed: () {
                   setState(() {
-                    result = double.parse(textEditingController.text)*3.055;
+                    result = double.parse(textEditingController.text)*3.04;
 
                   });  
                 },
