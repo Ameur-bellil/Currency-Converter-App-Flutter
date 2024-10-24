@@ -1,18 +1,39 @@
-# currency_converter
+Currency Converter App (USD to TND)
+Overview
+This Flutter application allows users to convert US Dollars (USD) to Tunisian Dinar (TND) . With a user-friendly interface and accurate currency exchange rates, this app is designed to make currency conversion quick and easy.
 
-A new Flutter project.
+Features
+User-Friendly Interface: Intuitive design for seamless user experience.
+Simple Input and Output: Easily enter the amount in USD and receive the converted amount in TND.
+Offline Support: Previous exchange rates can be accessed without internet connectivity.
+Installation
+Prerequisites
+Flutter SDK installed on your machine.
+An IDE such as Android Studio or Visual Studio Code.
+Clone the Repository
+bash
+Copy code
+git clone https://github.com/Ameur-bellil/Currency-Converter-App-Flutter.git
+Install Dependencies
+bash
+Copy code
+flutter pub get
+Run the App
+bash
+Copy code
 
-## Getting Started
+flutter run
+Usage
+Open the app on your device or emulator.
+Enter the amount in USD you want to convert.
+Tap the "Convert" button to see the equivalent amount in TND.
+The exchange rate will be displayed for reference.
 
-This project is a starting point for a Flutter application.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-A few resources to get you started if this is your first Flutter project:
+Acknowledgments
+Thanks to the contributors of the Flutter community.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1726133960](https://github.com/user-attachments/assets/e59ce247-e4dd-4f4f-ada6-2bbc5b04f032)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-![Screenshot_1726133960](https://github.com/user-attachments/assets/7ebb6371-805a-4c5c-bafa-25d9f60ca283)
-
-samples, guidance on mobile development, and a full API reference.
