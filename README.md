@@ -5,7 +5,6 @@ This Flutter application allows users to convert US Dollars (USD) to Tunisian Di
 Features
 User-Friendly Interface: Intuitive design for seamless user experience.
 Simple Input and Output: Easily enter the amount in USD and receive the converted amount in TND.
-Offline Support: Previous exchange rates can be accessed without internet connectivity.
 Installation
 ##Prerequisites
 Flutter SDK installed on your machine.
